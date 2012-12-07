@@ -20,10 +20,10 @@
 		D0083F141579008700958EFF /* MacRubyApiTester.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MacRubyApiTester.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D0083F181579008700958EFF /* Cocoa.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Cocoa.framework; path = System/Library/Frameworks/Cocoa.framework; sourceTree = SDKROOT; };
 		D0083F1A1579008700958EFF /* MacRuby.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MacRuby.framework; path = Library/Frameworks/MacRuby.framework; sourceTree = DEVELOPER_DIR; };
-		D0083F1F1579008700958EFF /* MacRubyApiTester-Info.plist */ = {isa = PBXFileReference; path = "MacRubyApiTester-Info.plist"; sourceTree = "<group>"; };
+		D0083F1F1579008700958EFF /* MacRubyApiTester-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "MacRubyApiTester-Info.plist"; sourceTree = "<group>"; };
 		D0083F211579008700958EFF /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		D0083F231579008700958EFF /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		D0083F251579008700958EFF /* MacRubyApiTester-Prefix.pch */ = {isa = PBXFileReference; path = "MacRubyApiTester-Prefix.pch"; sourceTree = "<group>"; };
+		D0083F251579008700958EFF /* MacRubyApiTester-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "MacRubyApiTester-Prefix.pch"; sourceTree = "<group>"; };
 		D0083F281579008700958EFF /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/MainMenu.xib; sourceTree = "<group>"; };
 		D0083F2B1579008700958EFF /* rb_main.rb */ = {isa = PBXFileReference; lastKnownFileType = text.script.ruby; path = rb_main.rb; sourceTree = "<group>"; };
 		D0083F2D1579008700958EFF /* AppDelegate.rb */ = {isa = PBXFileReference; lastKnownFileType = text.script.ruby; path = AppDelegate.rb; sourceTree = "<group>"; };
